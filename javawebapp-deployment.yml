@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        name: javawebapp
+        name: javawebappb;hn;
     spec:
       containers:
       - image: dockerhandson/java-web-app
